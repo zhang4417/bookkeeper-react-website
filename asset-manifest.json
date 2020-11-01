@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bookkeeper-react-website/static/css/main.922e08e3.chunk.css",
+    "main.js": "/bookkeeper-react-website/static/js/main.632ee6db.chunk.js",
+    "main.js.map": "/bookkeeper-react-website/static/js/main.632ee6db.chunk.js.map",
+    "runtime-main.js": "/bookkeeper-react-website/static/js/runtime-main.508b8db5.js",
+    "runtime-main.js.map": "/bookkeeper-react-website/static/js/runtime-main.508b8db5.js.map",
+    "static/js/2.a8e91970.chunk.js": "/bookkeeper-react-website/static/js/2.a8e91970.chunk.js",
+    "static/js/2.a8e91970.chunk.js.map": "/bookkeeper-react-website/static/js/2.a8e91970.chunk.js.map",
+    "index.html": "/bookkeeper-react-website/index.html",
+    "precache-manifest.87c0bcfaabfd0f619eea0b695652cce0.js": "/bookkeeper-react-website/precache-manifest.87c0bcfaabfd0f619eea0b695652cce0.js",
+    "service-worker.js": "/bookkeeper-react-website/service-worker.js",
+    "static/css/main.922e08e3.chunk.css.map": "/bookkeeper-react-website/static/css/main.922e08e3.chunk.css.map",
+    "static/js/2.a8e91970.chunk.js.LICENSE.txt": "/bookkeeper-react-website/static/js/2.a8e91970.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.508b8db5.js",
+    "static/js/2.a8e91970.chunk.js",
+    "static/css/main.922e08e3.chunk.css",
+    "static/js/main.632ee6db.chunk.js"
+  ]
+}
